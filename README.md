@@ -1,12 +1,12 @@
 
  **st - the simple (suckless) terminal**
  
-## Installation for newbs
+## Installation
 
 You should have xlib header files and libharfbuzz build files installed.
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/nyx-v/ST
 cd st
 sudo make install
 ```
@@ -27,4 +27,3 @@ nix develop github:siduck/st
 # Install font-symbola and libXft-bgra
 ```
 
-## Try it out!

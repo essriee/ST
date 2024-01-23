@@ -3,7 +3,7 @@
  
 ## Installation
 ```
-git clone https://github.com/nyx-v/ST
+git clone https://github.com/essriee/ST
 cd st
 sudo make install
 ```
